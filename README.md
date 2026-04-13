@@ -32,7 +32,20 @@ Su objetivo es optimizar procesos internos, mejorar la atención médica y centr
 ---
 
 ## 📂 Estructura del proyecto
-SistemaClinico/ │── Account/ │── App_Data/ │── Properties/ │── Scripts/ │── Styles/ │── admin_access/ │── doctor_access/ │── images/ │── bin/ │── obj/Debug/ │── About.aspx │── Default.aspx │── .gitattributes
+SistemaClinico/  
+│── Account/  
+│── App_Data/  
+│── Properties/  
+│── Scripts/  
+│── Styles/  
+│── admin_access/  
+│── doctor_access/  
+│── images/  
+│── bin/  
+│── obj/Debug/  
+│── About.aspx  
+│── Default.aspx  
+│── .gitattributes  
 
 ---
 
